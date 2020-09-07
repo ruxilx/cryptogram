@@ -1,5 +1,5 @@
 # cryptogram
-This is a repository for a homemade cryptogram. The cryptogram logic is exceptionally simple.
+This is a repository for a homemade cryptogram. The cipher logic is exceptionally simple.
 It uses the wikiquote module or input to convert a quote into a cryptogram.
 The cryptogram creates a cipher by:
   - Looping through all letters in the alphabet
